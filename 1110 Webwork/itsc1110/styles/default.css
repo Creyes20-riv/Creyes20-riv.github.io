@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(23, 129, 129);
+    color: rgb(27, 201, 140);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    width: 75%;
+    
+} 
+h1{
+    font-size:50px;
+    font-family:'Montserrat';} 
+    
+
+a{
+    color: rgb(196, 238, 255);
+}
+header{
+    font-size:larger;
+    text-align: center;
+}
+p{
+    font-size: medium;
+}
+footer{
+    color: beige;
+}
